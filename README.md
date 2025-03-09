@@ -1,15 +1,17 @@
 ## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Scho's%20Github&fontSize=60" />
 <div align = "center">현재 공부중인 게임 클라이언트 개발자입니다!</div> &nbsp
 <div align = "center"> 📧Email : teary1998@gmail.com </div>
 <div align = "center"> 📰Portfolio : <a href = "https://fern-cacao-08d.notion.site/1a68660622e580919f2bd678b658b34d?pvs=74"> Notion </a></div> 
 
-<h3 align="center">Language</h3> &nbsp
+<h3 align="center">Language</h3>
 <div align = "center">C#, C++</div> &nbsp
 
-<h3 align = "center">Game Engine</h3> &nbsp
+<h3 align = "center">Game Engine</h3>
 <div align = "center"> Unity </div> &nbsp
 
-<h3 align = "center"> 
+<h3 align = "center">Third-Party</h3> 
+<div align = "center">PlayFab, DOTween, Spine</div>
 
 <!--
 **snnose/snnose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
