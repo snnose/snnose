@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Scho's%20Github&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Scho's%20Github&fontSize=60&fontColor=ffffff" />
 <div align = "center">현재 공부중인 게임 클라이언트 개발자입니다!</div> &nbsp
 <div align = "center"> 📧Email : teary1998@gmail.com </div>
 <div align = "center"> 📰Portfolio : <a href = "https://fern-cacao-08d.notion.site/1a68660622e580919f2bd678b658b34d?pvs=74"> Notion </a></div> 
