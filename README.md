@@ -1,4 +1,5 @@
 ## Hi there 👋
+현재 공부중인 게임 클라이언트 개발자입니다.
 
 <!--
 **snnose/snnose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
