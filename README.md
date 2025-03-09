@@ -1,4 +1,3 @@
-## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Scho's%20Github&fontSize=60&fontColor=ffffff" />
 <div align = "center">현재 공부중인 게임 클라이언트 개발자입니다!</div> &nbsp
 <div align = "center"> 📧Email : teary1998@gmail.com </div>
@@ -11,7 +10,7 @@
 <div align = "center"> Unity </div> &nbsp
 
 <h3 align = "center">Third-Party</h3> 
-<div align = "center">PlayFab, DOTween, Spine</div>
+<div align = "center">PlayFab, DOTween, Spine</div> &nbsp
 
 <!--
 **snnose/snnose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
