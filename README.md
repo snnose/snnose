@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align = "center">현재 공부중인 게임 클라이언트 개발자입니다!</div> &nbsp
 <div align = "center"> Email : teary1998@gmail.com </div>
-<div align = "center"> Portfolio : <a href="https://fern-cacao-08d.notion.site/1a68660622e580919f2bd678b658b34d?pvs=74" sytle="text-decoration:none;">Notion</a> </div>
+<div align = "center"> Portfolio : <a href = "https://fern-cacao-08d.notion.site/1a68660622e580919f2bd678b658b34d?pvs=74"> Notion </a></div> 
 
 <h3 align="center">Language</h3> &nbsp
 <div align = "center">C#, C++</div> &nbsp
